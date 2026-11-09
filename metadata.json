@@ -1,0 +1,6 @@
+{
+  "name": "Wireframe Test iPhone 13 Pro",
+  "description": "Wireframe interattivo a bassa fedeltà per testare la mappa di navigazione e l'architettura informativa su iPhone 13 Pro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
